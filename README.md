@@ -34,7 +34,7 @@ Conducted a comparative sentiment analysis using multiple popular NLP libraries:
 
 
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,5 @@ Conducted a comparative sentiment analysis using multiple popular NLP libraries:
 
 
 
-
-
-
-
+---
+That's all folks
