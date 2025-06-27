@@ -36,6 +36,40 @@ Conducted a comparative sentiment analysis using multiple popular NLP libraries:
 
 
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=NLTK&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"/>
+</p>
+
+### Core Technologies
+* **Language:** Python
+* **Environment:** Jupyter Notebook
+
+### Data Handling & Analysis
+* **Pandas:** Used for loading, cleaning, and structuring the e-commerce review dataset.
+
+### Natural Language Processing (NLP)
+* **spaCy:** Leveraged for efficient text preprocessing, including tokenization and lemmatization.
+* **NLTK (VADER):** Implemented for its powerful sentiment analysis on short, informal review texts.
+* **TextBlob:** Used for comparative sentiment scoring to validate results.
+
+### Machine Learning & Predictive Analysis
+* **Scikit-learn:** Employed for:
+    * `TfidfVectorizer`: To convert text data into numerical features.
+    * `LogisticRegression`: To build and train the predictive model.
+
+### Data Visualization
+* **WordCloud:** To create insightful visualizations of the most frequent positive and negative words.
+* **Matplotlib & Seaborn:** For generating plots and charts during exploratory data analysis (EDA).
+
+  
 
 
 
